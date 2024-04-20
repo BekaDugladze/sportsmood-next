@@ -9,7 +9,7 @@ import { cookies } from 'next/headers'
 const secretKey = process.env.SECRET_KEY;
 const client = new MongoClient(process.env.MONGOURI);
 
-export const setAuthTokenCookie = (token) => {
+const setAuthTokenCookie = (token) => {
 
     // Set the JWT token in a cookie with appropriate options
     cookies().set('authToken', token, )
