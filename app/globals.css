@@ -1,0 +1,102 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --foreground-rgb: 0, 0, 0;
+  --background-start-rgb: 214, 219, 220;
+  --background-end-rgb: 255, 255, 255;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --foreground-rgb: 255, 255, 255;
+    --background-start-rgb: 0, 0, 0;
+    --background-end-rgb: 0, 0, 0;
+  }
+}
+
+body {
+  color: rgb(var(--foreground-rgb));
+  background: rgb(255, 239, 239);
+}
+
+@layer utilities {
+  .text-balance {
+    text-wrap: balance;
+  }
+}
+.firstDiv{
+  background: url('./firstBack.webp');
+  background-position: bottom;
+  background-size: cover;
+}
+.label{
+  color: rgb(146, 24, 24);
+  font-size: 13px;
+  font-style: italic;
+  font-family: 'bodonimt';
+  font-weight: bold;
+}
+.input{
+  outline: none;
+  border-radius: 25px;
+  border: 1px solid rgb(146, 24, 24);
+  padding: 0 5px;
+  font-size: 15px;
+}
+.ul a{
+  color: white;
+  font-size: 15px;
+  transition: all 1s;
+  padding: 5px 10px;
+}
+.ul a:hover{
+  color: rgb(146, 24, 24);
+  background: white;
+}
+.ul a li{
+  display: flex;
+  flex-direction: row;
+  text-align: center;
+}
+@media screen and (max-width: 658px) {
+  .ul a li{
+    width: 100px;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+  }
+}
+.adminInfo p {
+  font-size: 15px;
+  color: rgb(163, 27, 27);
+  font-weight: bold;
+}
+.adminInfo p span{
+  font-size: 14px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-style: italic;
+  color: rgb(163, 27, 27);
+}
+.coworkers p, .coworkers h2{
+  text-align: start;
+  margin: 0 15px;
+  color: rgb(163, 27, 27);
+  font-size: 16px;
+  font-weight: bold;
+  font-style: italic;
+}
+.coworkers span{
+  font-size: 14px;
+  font-weight: 400;
+  font-style: normal;
+}
+@media screen and (max-width: 668px) {
+  .coworkers p, .coworkers h2{
+    font-size: 14px;
+    display: flex;
+    flex-direction: column;
+    margin: 5px 10px;
+  }
+}

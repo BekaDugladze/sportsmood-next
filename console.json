@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "sportmood",
+  "private_key_id": "4bfcc6496d9a712de9bc045d241e5e8ee56d8f55",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC4KMLoEdIckNOf\nQyG7eqt4BDsngoBzpY6mqQhFGO8tx4F/sPe/feHDlELm0QG4MDYakvT2h2V9SCqt\nZG9uICZFWZ3zRdlg9twBZh33UmFD0xO9n0bvw+gKBLmoGNGQmOB8bQLOPmT8KzMy\nQHbCyAvkxyFBo4mbpwdbD54TwnHdVj0pxQu+f0MGQiZ0z6UxLMtaq0GHjBGJMCPQ\nKGomzgG6cD/uHjOzpPAvssIk+tKn+TMvTXgniWA7acyV1BwWc5hwlgdzrZu/AI8D\noRoWTyRWZl6v7soaqVV6uO902h/Ax7EYSJAz+3gJSUHqVqIh/AphEo1B7n8pJN3F\nw4ZyRs6ZAgMBAAECggEAALwcDLi7qrewIBtDkEVvexy/BkCF9pDCN4rhy1HvQYbT\nVM9DWbqlNiU/Hi8NK66KfYn/J+HU8tJ/45NKTrxQ9xKMr5U/u64tqdF84AUMJtoI\nDrF0Z+EuqahGRWxMx7n4zXGzoQxnLRelf3ff0IwL0km5UfkmIDIHrsQY0iyrFBze\nV9xreT5xTVNFVuB1Pd7w41qgOpXSIKZFCHo+WQ7LGH/c/JygAC5fEML5+JfcnW3G\n701SuXyWS6sHhITEMFK/OxhSwpVSTa8BrV4aCGOWwsOFT3tiiFbuLGD5nbEmui6K\n5DFsvRnW51W1o3807cGcQne01WhZiicLDi8T2ENzcQKBgQDu6ZebXumbrSdKI4/N\nMJ5oD4veN+rNKCed5abT5ln5k9JwNq8Vg0lSrNwWK1QYaekvfKx5PWwT57DUuIdt\n/1BekHvNICWBQmrmWkR+8QXCqnmBrbfXwn6E/xfuqutZGRVZjzmMaqpgAHjXD4HQ\n7pZp9+PfJYsN0i5rPcQWnfQ2aQKBgQDFVKfK7FwEK8TjgZOhYgIqrUG1Dt5eI2BV\ny2ETPoGv5DsQs/UFGOkSpWSRqi6HtBFjzRATT3XqIP7qTVLgbfC7lkEDLFCnBTZL\nUHxs6CKUHHWhhzOZ5MYiTToBm9g4dS/f/IXu3yd0kXiceOAs7j/lviNUstrQCmhP\nJaW7YD2wsQKBgEUfHjbciff5a+GeUk+KXno67TuYr/01PekH9XFfNu7nXr4KhDNU\nLZWW34ImfQknM0kC6B+Xrro/kUCqNryTXpxNbxQU1eUE40rMGP8lGoaMreTf7s2k\nvtgZucHaf4bio/OqZXsDrVFjMZL/MI7TSH9WMf5wrT+NbNKoJyBoCKzpAoGBAJEn\nRIYwdz9aMupnVoFP5ugdqkfVOB1nSGXTxQSy5hLMf+Y5efLV8ByXLPM5jCCmhGQ1\nY63QtZwTyW/wkRYlyP8z936uCmXRn66m9d/mogjxJlY7bem2L0jsJc8pJFPjX+QT\njTG5VPyaRW5UPBLQ7o/A3ZxgNDT0cuZFezPqB3cBAoGAOkKysyFqcWeBRuB8yWJC\nafIhP45GcUPVnh9vr/Je98saiXiX0QzXvvGIZpqLAuShYJl4PnxG4yRY8os5GtzG\nWlJrdRA/SQSuqq1G4N8vhRXJ+LSvTXrGZUoZ4yixbiPVgeTLWp7QfLhb9SK4KFtY\nzyvHPlSyQh43SF585pyWkE0=\n-----END PRIVATE KEY-----\n",
+  "client_email": "admin-sm@sportmood.iam.gserviceaccount.com",
+  "client_id": "106022413599924373918",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/admin-sm%40sportmood.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
